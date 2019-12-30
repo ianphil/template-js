@@ -1,0 +1,5 @@
+# This fixes line endings for Windows clients.
+# https://www.hanselman.com/blog/CarriageReturnsAndLineFeedsWillUltimatelyBiteYouSomeGitTips.aspx
+
+* text=auto eol=lf
+
